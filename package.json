@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yash-dxt/automate-my-coffee/issues"
   },
-  "homepage": "https://github.com/yash-dxt/automate-my-coffee#readme"
+  "homepage": "https://github.com/yash-dxt/automate-my-coffee#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.4.0"
+  }
 }
